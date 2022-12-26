@@ -1,3 +1,4 @@
+// problem to print the given number is divisable by 7 or not
 import java.util.*;
 class problem{
 	public static void main(String args[]){

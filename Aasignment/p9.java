@@ -1,4 +1,4 @@
-// proble to print the given number is prime or not 
+// the program to check the numbeer is even or odd
 import java.util.*;
 class problem{
 	public static void main(String args[]){
@@ -8,10 +8,10 @@ class problem{
 		
 		 System.out.println("entered number is "  +a);
 		 if(a%2==0){
-			 System.out.println(a +" is a prime number");
+			 System.out.println(a +" is a even number");
 		 } else 
 		 {
-			 System.out.println(a +"is not a prime number");
+			 System.out.println(a +"is  is odd number");
 		 }
 	}
 }
