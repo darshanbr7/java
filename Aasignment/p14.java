@@ -1,3 +1,4 @@
+// incrment and decrment order in 3 argument
 import java.util.*;
 class problem{
 	public static void main(String args[]){
