@@ -1,0 +1,66 @@
+  1) what types of loops Does java support ?
+     java supports 4 types of loops 
+
+    1 -- for loop--
+    it is used to iterate when the condition types in known
+    it contain 3 parts 
+        1--> initialization;
+        2-->condition;
+        3-->incrment/decrment;
+    syntax
+     for(data type initialization;condition;decr/incr){
+         statement
+		}
+
+   2--  while loop
+  it is most commanly used loop in java
+	 it used when the condition is unknown(or data is fetched from the database)
+	it contain 3 parts 
+        1--> initialization;
+        2-->condition;
+        3-->incrment/decrment;
+ 	 
+		syntax
+		initilization;
+		while(Condition){
+		 Statement;
+		incrment/decrment;
+		}
+     why is is most used-->  in while loop it first check the condition before go to execution
+
+    3 --- do-while loop
+	it is rarly used loop in java
+    it is test the condition  when the first iteration completed
+  	it contain 3 parts 
+        1--> initialization;
+        2-->condition;
+        3-->incrment/decrment;
+
+
+
+   Syntax  ;
+    initilization;
+     do{
+      Statement;
+     incrment/decrment;
+	}
+      while(Condition);
+
+
+     4 ----  for each loop   --or--- enhancemnet for loop
+
+     it is second most used loop  in java
+	   in this loop there is no initilization statement;
+         it used when the array iteration 
+      
+  	syntax
+    for(  data type element  :    array name){
+      statement(element);
+		} 
+		 
+		 it is relesed j2se 5.0 version;
+		  Advantages
+		    1-> less code;
+			2->  elements the posibality of error;
+			
+  
