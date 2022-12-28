@@ -7,7 +7,7 @@ class text{
 		   int  reverse=0;
 		   int reminder=0;
 		   
-		   while(a!=0){
+		   while(a>0){
 			   reminder=a%10;
 			   reverse=reverse*10+reminder;
 			   System.out.println(reverse);
