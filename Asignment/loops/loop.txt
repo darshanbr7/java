@@ -63,4 +63,10 @@
 		    1-> less code;
 			2->  elements the posibality of error;
 			
+			
+			
+			
+		what happen when we forget to use break statemen in switch case  ?
+            if we forget to use a break in switch statement it start execution  when the condition is true but i ends at the 
+					default  or  last case.
   

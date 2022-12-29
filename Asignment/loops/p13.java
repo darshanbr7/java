@@ -15,7 +15,7 @@ class text{
 			   
 		   }
 	    System.out.println("reverse of a number is "+ reverse);
-		System.out.println(0.23%10);
+		//System.out.println(0.23%10);
 	}
 	
 } 

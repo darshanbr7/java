@@ -2,6 +2,9 @@
 class text{
 	int a=10;
 	static int b=20;
+	public static void add(){
+		
+	}
 	public static void main(String args[]){
 		text a1=new text();
 		 text b1= new text();
