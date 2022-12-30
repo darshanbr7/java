@@ -1,0 +1,10 @@
+Default type Acess modifiers 
+		-- when the no acess modifiers are declared i packae  it is said to be having default Acess modifier
+
+  --    in class level;
+       default class are Acessable only same package,
+			 if we try acess out-side package or another package it throws an error.
+			 
+  --    in method level;
+			if we ca acess the defaut Acess modifier only in a same package .
+			also we can acess the default acess modifier in defferent class in a same package.
