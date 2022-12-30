@@ -1,0 +1,17 @@
+  private Acess modifier;
+    .. privatr Acess modifier are declared using "private" keyword.
+	    in class level thre is no private Acess modifier,
+	     
+		 it is only used in method level and variable level.
+		 
+		  in method level ;
+		  it can be acessable;
+		  
+		  in class level;
+		  private acess modifier are used only inside a same class  .
+		  if we try to acess in another class  it throws an Error.
+		  
+		  in package level;
+		  con't be Accessable in  anothter package.
+		  it throws an error.
+		  
