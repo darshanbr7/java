@@ -1,0 +1,14 @@
+  final Acess modifier.
+  final acess modifier are used in  class level , method level,veriable level
+  final Acess modifier are declared using final keyword.
+   
+   // in method level
+     it is acessable inside a same class.
+	 it is also acessable in different class.
+	 final  class level modifier can't be Acessible outside  package.
+	 final method level modifier .
+	 
+	 when the once class is declared as a final it con't be a inherited.
+	 
+	 
+	 
