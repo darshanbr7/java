@@ -1,0 +1,19 @@
+   protected Acess modifier;
+    protected Acess modifier ared declared using "protected" keyword.
+	
+	
+	protecte Acess modifier are not used in class level
+	
+	method level
+	   it support the inside the class;
+	   
+	   protected Acess modifier are only accessable in a same package in different class,
+	   but we try to acess in another package it throws an error.
+	   
+	   
+	   
+	   // in public class 
+	     the class is extensible.
+		 
+	  // in a default class
+	    the class is extensible.
