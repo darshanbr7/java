@@ -1,0 +1,13 @@
+public Acess modifier;
+   public Acess modifier are used using "public" keyword.
+   when the Acess modifier is pblic we can Acess anyware.
+   
+   -- in method level;
+       it can be Acessable,
+	   
+   -- in class level;
+       it can be Acessable,
+	   
+   -- in package level;
+      it can be Acessable  but class and method should be a public.
+   
