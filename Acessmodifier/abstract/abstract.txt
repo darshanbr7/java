@@ -1,0 +1,10 @@
+		Abstract.
+		Abstract is a non-Acessable modifier.used for class and method level.
+		Abstract  Acess-modifiers are declared using "abstract" keyword.
+		
+		in class level.
+	*	An abstract class is a restricted class that cannot be used to create objects.
+	*	to access it, it must be inherited from another class.
+	
+		method level;
+		An abstract method can only be used in an abstract class, and it does not have a body.
