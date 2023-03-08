@@ -12,9 +12,9 @@ public class s2 {
 	   a.add("chirag");
 	   a.add("muni");
 	   a.add("kishan");
-	//a.forEach(System.out::println);
-	   System.out::println;
-	    
+	     Stream b=a.stream().map(x->x.concat(" mandya"));
+	     System.out.println(b);
+	   b.forEach(ele->System.out.println(ele));
 	  
 
 	}
